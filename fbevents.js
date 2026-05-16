@@ -1,0 +1,384 @@
+<!DOCTYPE html><html lang="pt-BR"><head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Figurinhas Copa 2026 Imprima em Casa e Feche o Álbum de Uma Vez</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏆</text></svg>">
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/all.min.css">
+  
+  <!-- Meta Pixel Code -->
+  <script async="" src="js/fbevents.js"></script><script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '2432414090514019');
+    fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=2432414090514019&ev=PageView&noscript=1"
+  /></noscript>
+  <!-- End Meta Pixel Code -->
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/latest.js" data-utmify-prevent-xcod-sck="" data-utmify-prevent-subids="" async="" defer=""></script>
+</head>
+<body>
+
+  <!-- TICKER TAPE -->
+  <div class="ticker-wrap">
+    <div class="ticker">
+      <span class="ticker-inner">⚽ CHEGA DE ENVELOPES SEM RESULTADO  •  BAIXE, IMPRIMA E FECHE O ÁLBUM  •  APENAS R$ 10,00  •  FIGURINHAS ORGANIZADAS POR SELEÇÃO  •  500+ JOGADORES  •  48 SELEÇÕES  •  ⚽ CHEGA DE ENVELOPES SEM RESULTADO  •  BAIXE, IMPRIMA E FECHE O ÁLBUM  •  APENAS R$ 10,00  •  FIGURINHAS ORGANIZADAS POR SELEÇÃO  •  500+ JOGADORES  •  48 SELEÇÕES  •  ⚽ CHEGA DE ENVELOPES SEM RESULTADO  •  BAIXE, IMPRIMA E FECHE O ÁLBUM  •  APENAS R$ 10,00  •  FIGURINHAS ORGANIZADAS POR SELEÇÃO  •  500+ JOGADORES  •  48 SELEÇÕES  •  ⚽ CHEGA DE ENVELOPES SEM RESULTADO  •  BAIXE, IMPRIMA E FECHE O ÁLBUM  •  APENAS R$ 10,00  •  FIGURINHAS ORGANIZADAS POR SELEÇÃO  •  500+ JOGADORES  •  48 SELEÇÕES  • </span>
+    </div>
+  </div>
+
+  <!-- HERO SECTION -->
+  <section class="hero">
+    <div class="container">
+      <div class="badge-gold"><i class="fa-solid fa-trophy"></i> COPA DO MUNDO 2026</div>
+      <h1>
+        <span class="text-white">COMPLETE O ÁLBUM</span><br>
+        <span class="text-gold glow-text">GASTANDO POUCO!</span>
+      </h1>
+      <p class="hero-subtitle">Todas as figurinhas da Copa 2026 prontas para imprimir. Sem depender de sorte, sem repetidas.</p>
+
+      <div class="video-wrapper">
+        <div class="video-glow"></div>
+        <video id="promo-video" src="media/vsl.mp4" autoplay="" loop="" muted="" playsinline=""></video>
+        <button id="unmute-btn" class="unmute-btn" aria-label="Ativar Som">
+          <i class="fa-solid fa-volume-xmark" id="icon-muted"></i>
+          <i class="fa-solid fa-volume-high" id="icon-unmuted" style="display: none;"></i>
+          <span>Toque para Ouvir</span>
+        </button>
+      </div>
+
+      <a href="#comprar" class="btn btn-primary pulse-anim" id="e7757021-2cd7-fc8e-b0c7-d7b981012a2d">
+        QUERO MEU PACK AGORA <i class="fa-solid fa-arrow-right"></i>
+      </a>
+    </div>
+  </section>
+
+  <!-- CAROUSEL SECTION -->
+  <section class="album-section">
+    <div class="container">
+      <h2 class="section-title">OS <span class="text-neon">CRAQUES</span> NO SEU ÁLBUM</h2>
+      <p class="section-desc">Figurinhas organizadas por seleção, em alta qualidade, prontas para imprimir. Sem envelopes, sem sorte, sem frustração.</p>
+    </div>
+
+    <div class="carousel-container">
+      <div class="carousel-track" id="carousel-track">
+        <div class="player-card"><div class="card-inner"><img src="images/cristiano.webp" alt="Cristiano Ronaldo" loading="lazy"></div></div>
+        <div class="player-card"><div class="card-inner"><img src="images/raphinha.webp" alt="Raphinha" loading="lazy"></div></div>
+        <div class="player-card"><div class="card-inner"><img src="images/messi.webp" alt="Messi" loading="lazy"></div></div>
+        <div class="player-card"><div class="card-inner"><img src="images/mbape.webp" alt="Mbappe" loading="lazy"></div></div>
+        <div class="player-card"><div class="card-inner"><img src="images/vini.webp" alt="Vini Jr" loading="lazy"></div></div>
+        <div class="player-card"><div class="card-inner"><img src="images/yamal.webp" alt="Yamal" loading="lazy"></div></div>
+        <div class="player-card"><div class="card-inner"><img src="images/kane%20oro.webp" alt="Harry Kane" loading="lazy"></div></div>
+        <div class="player-card"><div class="card-inner"><img src="images/cristiano.webp" alt="Cristiano Ronaldo" loading="lazy"></div></div>
+        <div class="player-card"><div class="card-inner"><img src="images/raphinha.webp" alt="Raphinha" loading="lazy"></div></div>
+        <div class="player-card"><div class="card-inner"><img src="images/messi.webp" alt="Messi" loading="lazy"></div></div>
+        <div class="player-card"><div class="card-inner"><img src="images/mbape.webp" alt="Mbappe" loading="lazy"></div></div>
+        <div class="player-card"><div class="card-inner"><img src="images/vini.webp" alt="Vini Jr" loading="lazy"></div></div>
+        <div class="player-card"><div class="card-inner"><img src="images/yamal.webp" alt="Yamal" loading="lazy"></div></div>
+        <div class="player-card"><div class="card-inner"><img src="images/kane%20oro.webp" alt="Harry Kane" loading="lazy"></div></div>
+      </div>
+    </div>
+
+    <div class="container">
+      <p class="section-desc mt-large">Do download à impressão em minutos. Escolha o país, imprima e cole. Simples assim.</p>
+      <a href="#comprar" class="btn btn-secondary" id="d95d549b-9fb6-1ad5-66ab-1e7d54da229a">
+        QUERO O PACK COMPLETO
+      </a>
+    </div>
+  </section>
+
+  <!-- NUMBERS SECTION -->
+  <section class="numbers-section">
+    <div class="container">
+      <h2 class="section-title">ECONOMIZE DE <span class="text-gold">VERDADE</span></h2>
+      <p class="section-desc">Enquanto uma caixinha de envelopes não garante nada, esse pack garante tudo.</p>
+
+      <div class="numbers-grid">
+        <div class="glass-card num-card">
+          <span class="num-val text-neon">500<span class="plus">+</span></span>
+          <span class="num-label">Figurinhas</span>
+          <span class="num-sub">Todas organizadas, sem repetida</span>
+        </div>
+        <div class="glass-card num-card">
+          <span class="num-val text-neon">48</span>
+          <span class="num-label">Seleções</span>
+          <span class="num-sub">Todos os países da Copa 2026</span>
+        </div>
+        <div class="glass-card num-card">
+          <span class="num-val text-neon">300<span class="plus">+</span></span>
+          <span class="num-label">Páginas</span>
+          <span class="num-sub">Em alta resolução 300 DPI</span>
+        </div>
+        <div class="glass-card num-card">
+          <span class="num-val text-neon">7</span>
+          <span class="num-label">Dias de Garantia</span>
+          <span class="num-sub">Reembolso total sem perguntas</span>
+        </div>
+      </div>
+
+      <a href="#comprar" class="btn btn-primary pulse-anim mt-large" id="2961de36-c99a-c70b-06e8-4805a1dbd8df">
+        EU QUERO ESSE PACK!
+      </a>
+    </div>
+  </section>
+
+  <!-- FEATURES / INCLUDED SECTION -->
+  <section class="included-section">
+    <div class="container">
+      <h2 class="section-title">BAIXOU, <span class="text-gold">IMPRIMIU</span>, COMPLETOU.</h2>
+      <p class="section-desc">Sem depender de envelopes, sorte ou trocas. Tudo o que você precisa para completar o álbum, de uma vez só.</p>
+
+      <div class="features-grid">
+        <div class="glass-card feature-card">
+          <div class="feature-icon"><i class="fa-solid fa-money-bill-trend-up"></i></div>
+          <h3 class="feature-title">Economize de Verdade</h3>
+          <p class="feature-desc">Enquanto envelopes custam R$150+ e ainda vêm repetidas, aqui você paga uma vez e recebe tudo organizado.</p>
+        </div>
+        <div class="glass-card feature-card">
+          <div class="feature-icon"><i class="fa-solid fa-print"></i></div>
+          <h3 class="feature-title">Pronto para Imprimir</h3>
+          <p class="feature-desc">Arquivos em alta resolução (300 DPI), prontos para impressão em papel comum, fotográfico ou adesivo.</p>
+        </div>
+        <div class="glass-card feature-card">
+          <div class="feature-icon"><i class="fa-solid fa-earth-americas"></i></div>
+          <h3 class="feature-title">Todas as 48 Seleções</h3>
+          <p class="feature-desc">Brasil, Argentina, França, Espanha, Portugal e todos os demais países classificados para a Copa 2026.</p>
+        </div>
+        <div class="glass-card feature-card">
+          <div class="feature-icon"><i class="fa-regular fa-folder-open"></i></div>
+          <h3 class="feature-title">Tudo Organizado</h3>
+          <p class="feature-desc">Figurinhas separadas por seleção, numeradas e prontas para usar. Sem bagunça, sem confusão.</p>
+        </div>
+        <div class="glass-card feature-card">
+          <div class="feature-icon"><i class="fa-solid fa-rocket"></i></div>
+          <h3 class="feature-title">Download Imediato</h3>
+          <p class="feature-desc">Pagou, baixou. Sem esperar entrega, sem fila, sem envelopes chegando dias depois.</p>
+        </div>
+        <div class="glass-card feature-card">
+          <div class="feature-icon"><i class="fa-solid fa-arrows-rotate"></i></div>
+          <h3 class="feature-title">Atualizações Inclusas</h3>
+          <p class="feature-desc">Novas figurinhas adicionadas conforme o torneio avança. Comprou uma vez, tem para sempre.</p>
+        </div>
+      </div>
+
+      <a href="#comprar" class="btn btn-secondary mt-large" id="57af8ec4-b765-4978-5c88-e733b7b2de0d">
+        QUERO COMPLETAR MEU ÁLBUM
+      </a>
+    </div>
+  </section>
+
+  <!-- TESTIMONIALS SECTION -->
+  <section class="testimonials-section">
+    <div class="container">
+      <h2 class="section-title">ELES <span class="text-neon">PARARAM</span> DE JOGAR DINHEIRO FORA</h2>
+      <p class="section-desc">Quem comprou o pack parou de depender de envelopes e completou de vez.</p>
+
+      <div class="ig-comments-wrapper glass-card">
+        <!-- IG Comment 1 -->
+        <div class="ig-comment">
+          <div class="ig-avatar" style="background-image: url('images/image2.png'); background-size: cover; background-position: center;"></div>
+          <div class="ig-content">
+            <div class="ig-header">
+              <span class="ig-username">carlos.mendes</span>
+              <span class="ig-time">2 d</span>
+            </div>
+            <p class="ig-text">Já tinha gastado mais de R$ 120 em envelopinhos e meu filho ainda tava longe de completar. Comprei o pack, imprimimos em casa e em uma tarde o álbum ficou completo. 🙌🔥</p>
+            <div class="ig-actions">
+              <span>Responder</span>
+              <span>Enviar</span>
+            </div>
+          </div>
+          <div class="ig-like">
+            <i class="fa-regular fa-heart"></i>
+          </div>
+        </div>
+
+        <!-- IG Comment 2 -->
+        <div class="ig-comment">
+          <div class="ig-avatar" style="background-image: url('images/image-mulher.png'); background-size: cover; background-position: center;"></div>
+          <div class="ig-content">
+            <div class="ig-header">
+              <span class="ig-username">ana_ferreira12</span>
+              <span class="ig-time">4 d</span>
+            </div>
+            <p class="ig-text">Minha filha ficou frustrada porque só vinham repetidas. Por R$ 10,00 veio tudo de uma vez, organizado, sem repetição. Não tem comparação. 😍</p>
+            <div class="ig-actions">
+              <span>Responder</span>
+              <span>Enviar</span>
+            </div>
+          </div>
+          <div class="ig-like">
+            <i class="fa-solid fa-heart" style="color: #ff3040;"></i>
+          </div>
+        </div>
+
+        <!-- IG Comment 3 -->
+        <div class="ig-comment">
+          <div class="ig-avatar" style="background-image: url('images/image%20%2830%29.png'); background-size: cover; background-position: center;"></div>
+          <div class="ig-content">
+            <div class="ig-header">
+              <span class="ig-username">roberto.silva99</span>
+              <span class="ig-time">1 sem</span>
+            </div>
+            <p class="ig-text">Baixei, mandei imprimir na gráfica aqui perto e saiu perfeito. Meu neto ficou feliz e eu economizei muito. Recomendo para todo mundo! ⚽🏆</p>
+            <div class="ig-actions">
+              <span>Responder</span>
+              <span>Enviar</span>
+            </div>
+          </div>
+          <div class="ig-like">
+            <i class="fa-regular fa-heart"></i>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PRICING SECTION -->
+  <section class="price-section" id="comprar">
+    <div class="container">
+      <h2 class="section-title">FECHE O ÁLBUM <span class="text-gold">SEM ESVAZIAR O BOLSO</span></h2>
+      <p class="section-desc">Pagamento único. Acesso imediato. Sem sorte, sem repetidas.</p>
+
+      <div class="pricing-card-wrapper">
+        <div class="glass-card pricing-card">
+          <div class="discount-badge"><i class="fa-solid fa-fire"></i> PREÇO DE LANÇAMENTO 60% OFF</div>
+          <p class="price-old">De R$ 49,90</p>
+          <div class="price-main">
+            <span class="currency">R$</span><span class="amount">10</span><span class="cents">,00</span>
+          </div>
+          <p class="price-label">UMA VEZ • ACESSO VITALÍCIO</p>
+          
+          <ul class="price-features">
+            <li><i class="fa-solid fa-check text-neon"></i> 500+ figurinhas organizadas por seleção</li>
+            <li><i class="fa-solid fa-check text-neon"></i> Todas as 48 seleções da Copa 2026</li>
+            <li><i class="fa-solid fa-check text-neon"></i> Alta resolução 300 DPI para imprimir</li>
+            <li><i class="fa-solid fa-check text-neon"></i> Funciona em impressora comum ou gráfica</li>
+            <li><i class="fa-solid fa-check text-neon"></i> Download imediato após o pagamento</li>
+            <li><i class="fa-solid fa-check text-neon"></i> Atualizações gratuitas durante a Copa</li>
+            <li><i class="fa-solid fa-check text-neon"></i> Garantia de 7 dias ou dinheiro de volta</li>
+          </ul>
+
+          <a href="https://pay.lowify.com.br/checkout.php?product_id=CF605g" class="btn btn-primary btn-large pulse-anim" id="2c311f9a-d794-ff3e-b0d3-01234c6a22f7">
+            QUERO MEU PACK AGORA <i class="fa-solid fa-cart-shopping"></i>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ SECTION -->
+  <section class="faq-section">
+    <div class="container">
+      <h2 class="section-title">DÚVIDAS <span class="text-neon">FREQUENTES</span></h2>
+      <p class="section-desc">Tudo que você precisa saber antes de comprar.</p>
+
+      <div class="faq-list">
+        <div class="faq-item">
+          <button class="faq-question">Preciso de uma impressora especial? <i class="fa-solid fa-chevron-down"></i></button>
+          <div class="faq-answer">
+            <p>Não. Qualquer impressora jato de tinta ou laser já funciona bem. Você também pode levar o arquivo em um pen drive e imprimir numa gráfica por poucos reais.</p>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question">Como recebo o pack depois do pagamento? <i class="fa-solid fa-chevron-down"></i></button>
+          <div class="faq-answer">
+            <p>O acesso é imediato. Assim que o pagamento é confirmado, você recebe o link de download por e-mail. Sem espera, sem envio físico.</p>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question">As figurinhas têm o tamanho certo para colar no álbum? <i class="fa-solid fa-chevron-down"></i></button>
+          <div class="faq-answer">
+            <p>Sim. Os arquivos já vêm no tamanho padrão das figurinhas da Panini, prontos para recortar e colar diretamente no álbum.</p>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question">E se sair uma figurinha nova durante a Copa? <i class="fa-solid fa-chevron-down"></i></button>
+          <div class="faq-answer">
+            <p>Você não paga nada a mais. As atualizações são gratuitas para quem já comprou. É só baixar a versão mais recente do arquivo.</p>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question">Tem garantia se eu não gostar? <i class="fa-solid fa-chevron-down"></i></button>
+          <div class="faq-answer">
+            <p>Sim. Você tem 7 dias para pedir reembolso total, sem precisar justificar. Basta entrar em contato por e-mail.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SOCIAL PROOF SCREENSHOTS -->
+  <section class="social-proof-section">
+    <div class="container">
+      <div class="social-proof-header">
+        <span class="social-proof-emoji">🤔</span>
+        <h2 class="section-title">AINDA ESTÁ <span class="text-gold">EM DÚVIDA?</span></h2>
+        <p class="section-desc">Veja o que clientes reais estão dizendo. Prints de conversas verdadeiras, sem filtro.</p>
+      </div>
+
+      <div class="proof-gallery">
+        <div class="proof-card">
+          <img src="images/dep-fig1.png" alt="Depoimento de cliente satisfeito mostrando figurinhas impressas" loading="lazy">
+        </div>
+        <div class="proof-card">
+          <img src="images/dep-fig2.png" alt="Depoimento de cliente elogiando a qualidade" loading="lazy">
+        </div>
+        <div class="proof-card">
+          <img src="images/dep-fig3.png" alt="Depoimento de cliente sobre qualidade fora do normal" loading="lazy">
+        </div>
+        <div class="proof-card">
+          <img src="images/dep-fig4%20%281%29.png" alt="Depoimento de cliente recomendando o pack" loading="lazy">
+        </div>
+      </div>
+
+      <div class="proof-trust-bar">
+        <div class="trust-item">
+          <i class="fa-solid fa-shield-halved"></i>
+          <span>Prints Reais</span>
+        </div>
+        <div class="trust-item">
+          <i class="fa-solid fa-users"></i>
+          <span>+500 Clientes</span>
+        </div>
+        <div class="trust-item">
+          <i class="fa-solid fa-star"></i>
+          <span>Satisfação Garantida</span>
+        </div>
+      </div>
+
+      <a href="#comprar" class="btn btn-primary pulse-anim mt-large" id="social-proof-cta">
+        QUERO MEU PACK AGORA <i class="fa-solid fa-arrow-right"></i>
+      </a>
+    </div>
+  </section>
+
+  <!-- FOOTER CTA -->
+  <div class="footer-cta">
+    <div class="container">
+      <h2>CHEGA DE ENVELOPES.<br><span class="text-gold glow-text">FECHE O ÁLBUM DE VEZ.</span></h2>
+      <p>Baixe, imprima e finalize o álbum da Copa 2026 sem depender de sorte, sem trocas, sem repetidas.</p>
+      <a href="https://pay.lowify.com.br/checkout.php?product_id=CF605g" class="btn btn-primary" id="c04eb14b-f36b-67b0-b441-35b8df2c5175">QUERO MEU PACK R$ 10,00</a>
+    </div>
+  </div>
+
+  <footer>
+    <div class="container">
+      <p>© 2026 Pack Figurinhas Copa Produto digital para uso pessoal. Não afiliado à FIFA ou à Panini.</p>
+    </div>
+  </footer>
+
+
+
+  <script src="js/script.js"></script>
+
+
+</body></html>
